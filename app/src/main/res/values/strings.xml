@@ -1,5 +1,35 @@
 <resources>
     <string name="app_name">first</string>
+    <string name="roll">Roll</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_failed">Loading failed. Please check your internet connection.</string>
+    <string name="retry">Retry</string>
+    <string name="amphibian_title">%1$s (%2$s)</string>
+    
+    <string name="lemon_select">Tap the lemon tree to select a lemon</string>
+    <string name="lemon_squeeze">Keep tapping the lemon to squeeze it</string>
+    <string name="lemon_drink">Tap the lemonade to drink it</string>
+    <string name="lemon_empty_glass">Tap the empty glass to start again</string>
+    <string name="lemon_tree_content_description">Lemon tree</string>
+    <string name="lemon_content_description">Lemon</string>
+    <string name="lemonade_content_description">Glass of lemonade</string>
+    <string name="empty_glass_content_description">Empty glass</string>
+    
+    <!-- Heroes App Strings -->
+    <string name="hero1">Nick the Night Watchman</string>
+    <string name="description1">The night is long, but he is always there.</string>
+    <string name="hero2">Reality Ranger</string>
+    <string name="description2">He sees the world as it truly is.</string>
+    <string name="hero3">The Thunderman</string>
+    <string name="description3">He can control the weather and lightning.</string>
+    <string name="hero4">Invisible Woman</string>
+    <string name="description4">She can be invisible whenever she wants.</string>
+    <string name="hero5">Gravity Girl</string>
+    <string name="description5">She can control gravity with her mind.</string>
+    <string name="hero6">The Flash</string>
+    <string name="description6">He is the fastest man alive.</string>
+
+    <!-- Affirmation Strings -->
     <string name="affirmation1">Content 1.</string>
     <string name="affirmation2">Content 2.</string>
     <string name="affirmation3">Content 3.</string>
