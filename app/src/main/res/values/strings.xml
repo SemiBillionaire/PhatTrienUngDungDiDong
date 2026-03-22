@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="affirmation1">Content 1.</string>
+    <string name="affirmation2">Content 2.</string>
+    <string name="affirmation3">Content 3.</string>
+    <string name="affirmation4">Content 4.</string>
+    <string name="affirmation5">Content 5.</string>
+    <string name="affirmation6">Content 6.</string>
+    <string name="affirmation7">Content 7.</string>
+    <string name="affirmation8">Content 8.</string>
+    <string name="affirmation9">Content 9.</string>
+    <string name="affirmation10">Content 10.</string>
+</resources>
